@@ -13,17 +13,21 @@ Dockerized for easy deployment.
 
 ## Setup Instructions
 ### 1. Clone the Repository
-
+```
 - git clone https://github.com/yourusername/library-management-api.git
 - cd library-management-api
-
+```
 ### 2. Set Up Python Environment
-   
+```
 - python -m venv venv
 - venv\Scripts\activate
 - pip install -r requirements.txt
+```
 
 ### 3. Run the API
+```
 
 - python app.py
 - Access the API at http://127.0.0.1:5000.
+```
+
